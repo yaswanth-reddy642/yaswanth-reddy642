@@ -1,40 +1,192 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gundlapalli YaswanthReddy
-==================================================================================================================================================
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm Gundlapalli Yaswanth Reddy
 
-Software Engineering Student | Full Stack Developer | Java Developer
---------------------------------------------------------------------
+<div align="center">
 
-I am a Software Engineering student with a strong foundation in Java, Data Structures & Algorithms, Full Stack Development, and REST API development. I build scalable, responsive web applications using React.js, Node.js, Express.js, MySQL, and MongoDB. I enjoy solving complex problems, writing clean and maintainable code, and continuously learning modern software engineering practices. My goal is to develop high-quality software that delivers reliable and efficient solutions while expanding my expertise in backend development, cloud technologies, and system design.
+### Software Engineer | AI & Machine Learning | Full Stack Developer
 
-* 🌍  I'm based in Andhra Pradesh, India
-* 🖥️  See my portfolio at [MyPortfolio](http://advanced_portfolio-alpha.vercel.app/)
-* ✉️  You can contact me at [yashureddy155@gmail.com](mailto:yashureddy155@gmail.com)
-* 🚀  I'm currently working on [NextHire AI](http://github.com/yaswanth-reddy642/nexthire-ai)
-* 🧠  I'm currently learning Spring Boot, Microservices, System Design, Docker, Kubernetes, AWS Cloud, CI/CD, and Advanced Data Structures & Algorithms.
-* 👥  I'm looking to collaborate on Open Source Projects, Full Stack Web Applications, Java Backend Development, AI-Powered Applications, and Developer Tools.
-* 💬  Ask me about I enjoy building real-world software, contributing to open-source projects, exploring new technologies, and continuously improving my software engineering skills.
+Building scalable web applications, AI-powered solutions, and modern user experiences.
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Engineering student specializing in **Artificial Intelligence and Machine Learning** with strong experience in **Full Stack Development** and **Data Structures & Algorithms**.
+
+I enjoy designing scalable applications that combine modern web technologies with AI to solve real-world problems.
+
+### What I Do
+
+* 🚀 Build Full Stack Web Applications
+* 🤖 Develop AI-powered Software
+* 💻 Solve Data Structures & Algorithms problems
+* ☁️ Deploy Production Applications
+* 🔐 Design Secure Authentication Systems
+* 📊 Build Interactive Dashboards
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
 </p>
 
-### Socials
+### Frontend
 
-<p align="left"> <a href="https://www.github.com/yaswanth-reddy642" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/yashureddy155" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/yaswanth-reddy-dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.facebook.com/yashwanth.reddy.751645/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-<a href="https://www.github.com/yaswanth-reddy642" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/yaswanth-reddy642?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/yashureddy155" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/yashureddy155?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-### Badges
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+</p>
 
-<b>My GitHub Stats</b>
+### Backend
 
-<a href="http://www.github.com/yaswanth-reddy642"><img src="https://github-readme-stats.vercel.app/api?username=yaswanth-reddy642&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yaswanth-reddy642's GitHub stats" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-<a href="http://www.github.com/yaswanth-reddy642"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth-reddy642&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Database
 
-<a href="https://github.com/yaswanth-reddy642" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth-reddy642&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-<b>Top Repositories</b>
+### AI / Machine Learning
 
-<div width="100%" align="center"><a href="https://github.com/yaswanth-reddy642/nexthire-ai" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanth-reddy642&repo=nexthire-ai&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/yaswanth-reddy642/advanced_portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yaswanth-reddy642&repo=advanced_portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+* Pandas
+* NumPy
+* Scikit-Learn
+* Streamlit
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 NextHire AI
+
+AI-powered interview preparation and resume optimization platform.
+
+### Features
+
+* ATS Resume Analysis
+* AI Mock Interviews
+* JWT Authentication
+* Performance Dashboard
+* Role-Based Access Control
+* Interactive Analytics
+
+**Tech Stack**
+
+React • Node.js • Express.js • MongoDB • JWT • Tailwind CSS • Chart.js
+
+---
+
+## 🌱 KrishiConnect AI
+
+AI-powered agriculture marketplace connecting farmers, consumers, retailers, and wholesalers.
+
+### Features
+
+* AI Crop Recommendation
+* Disease Detection
+* Market Price Prediction
+* Secure Authentication
+* Inventory Management
+* Analytics Dashboard
+* Razorpay Payment Integration
+
+**Tech Stack**
+
+React • FastAPI • Python • MongoDB Atlas • Redux Toolkit • Tailwind CSS • Cloudinary • JWT
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Coding Profiles
+
+* 💻 LeetCode
+* 🏆 HackerRank
+* ⚡ CodeChef
+* 📚 GeeksforGeeks
+
+---
+
+# 🏆 Achievements
+
+* Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+* NxtWave Full Stack Development Program
+* Built multiple AI-powered production-ready applications
+* Solved 300+ DSA and SQL problems
+* Hands-on experience with cloud deployment and REST APIs
+
+---
+
+# 🎯 Current Focus
+
+* Advanced Data Structures & Algorithms
+* Artificial Intelligence Applications
+* System Design
+* Backend Engineering
+* Cloud Deployment
+* Open Source Contributions
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Turning Ideas into Intelligent Software."
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</div>
